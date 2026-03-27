@@ -1,4 +1,4 @@
-# alfredo
+# alfreedo
 script for Canva workflow automation and image processing tools.
 
 # Canva Workflow Tools
