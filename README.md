@@ -20,7 +20,7 @@ The goal of this project is to explore automation techniques and workflow optimi
 
 To use the tools, simply follow these steps:
 
-1. Open **Canva** in your web browser.
+1. Open your **Project Canva** in your web browser.
 2. Open the browser **Developer Tools** (usually by pressing `F12` or `Ctrl+Shift+J` / `Cmd+Option+J`).
 3. Navigate to the **Console** tab.
 4. **Paste the code** directly into the console and press `Enter`.
